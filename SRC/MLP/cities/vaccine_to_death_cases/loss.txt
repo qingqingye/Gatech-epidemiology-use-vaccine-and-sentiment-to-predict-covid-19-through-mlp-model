@@ -1,0 +1,6 @@
+123795.52583333333 la_city_features.csv_vaccine_to_death
+417785357.08444446 la_city_features.csv_vaccine_to_cases
+119730.90260416667 ny_city_features.csv_vaccine_to_death
+363116316.16 ny_city_features.csv_vaccine_to_cases
+125920.2471875 pho_city_features.csv_vaccine_to_death
+390530621.72444445 pho_city_features.csv_vaccine_to_cases

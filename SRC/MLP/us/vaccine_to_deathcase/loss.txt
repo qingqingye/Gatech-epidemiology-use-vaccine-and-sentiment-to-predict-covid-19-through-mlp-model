@@ -1,0 +1,2 @@
+58627.09333333333 vaccine_to_death
+209213223.5022222 vaccine_to_cases
